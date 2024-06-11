@@ -48,6 +48,7 @@ app.get('/',  (req, res) => {
         
           <img src="https://static.cycle.io/icons/logo/logo-white.svg" className="App-logo" alt="logo"  width="400px" " />
           <p><b>Deployment Version</b>: ${deploymentVersion}<p>
+          <p>SMALL CHANGES</p>
           
         
         
