@@ -18,5 +18,5 @@ EXPOSE 3000
 
 # Command to run the application
 # CMD ["node --debug", "index.js"]
-CMD node --debug index.js
+CMD node --watch index.js
 
